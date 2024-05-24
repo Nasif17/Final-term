@@ -58,7 +58,7 @@ int main()
     s4.name="Mr.h";
     s4.cgpa=3.50;
     s5.id=104;
-    s5.name="Mr.io";
+    s5.name="Mr.i";
     s5.cgpa=3.89;
     Student arr[]={s1,s2,s3,s4,s5};
     int size=sizeof(arr)/sizeof(arr[0]);
