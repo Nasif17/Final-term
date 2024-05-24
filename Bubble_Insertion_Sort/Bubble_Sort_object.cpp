@@ -49,7 +49,7 @@ int main()
     s1.name="Mr.c";
     s1.cgpa=3.03;
     s2.id=106;
-    s2.name="Mr.7l";
+    s2.name="Mr.l";
     s2.cgpa=3.14;
     s3.id=103;
     s3.name="Mr.k";
